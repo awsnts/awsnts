@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 👩‍🎓 **Course**: Internet Systems – UTFPR (Universidade Tecnológica Federal do  Paraná)  
-🏢 **Job**: Administrative Assistant at Fundação Agrária de Pesquisa Agropecuária (FAPA)  
+🏢 **Job**: Administrative Assistant - FAPA (Fundação Agrária de Pesquisa Agropecuária)  
 🌱 **Learning**: HTML · CSS · JavaScript · Linux · Python · Java  
 💡 **Interests**: Modern front - end, DevOps and back-end with best practices  
 ⚡ **Hobbies**: Reading technology articles, task automation and minimalist design.
